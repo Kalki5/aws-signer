@@ -1,4 +1,4 @@
-module aws-signer
+module github.com/Kalki5/aws-signer
 
 go 1.16
 

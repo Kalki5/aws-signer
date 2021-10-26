@@ -1,6 +1,6 @@
 # AWS Signer
 
-A CLI application to get federated signin URL to AWS Accounts added to your shared credentials file.
+A CLI application to get federated signin URL to AWS Accounts from your shared credentials file
 
 ## Usage
 
